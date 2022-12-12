@@ -11,8 +11,12 @@ body {
     width: 100%;
     font-family: Arial, Helvetica, sans-serif;
     transition: background 0.2s linear;
+    
 }
+body a {
+    color:inherit
 
+}
 body.dark {
     background-color: #232c35;
     color: #fafafa;
